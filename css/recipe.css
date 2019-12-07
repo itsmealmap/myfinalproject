@@ -1,0 +1,12 @@
+
+body{
+background-image: url(../img/hh.jpeg);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: MS Reference Sans Serif;
+  text-decoration: none;
+}
+#fcolor{
+	color: white;
+}

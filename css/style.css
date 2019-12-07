@@ -1,0 +1,50 @@
+
+#animae{
+  color: black;
+  
+  animation-name: try;
+  animation-duration: 8s;
+
+}
+@keyframes try{
+  0%{color:#4169E1;}
+  10%{color:#00008B;}
+  20%{color:#000080;}
+  30%{color: #191970;}
+  40%{color:#32CD32;}
+  50%{color:#00CED1;}
+  70%{color: #800000;}
+  80%{color:#FF0000;}
+  90%{color: #4B0082;}
+  100%{color:#DC143C;}
+
+}
+
+body
+{
+  background-image: url(../img/back.PNG);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  font-family: MS Reference Sans Serif;
+  text-align: center;	
+  text-decoration: none;
+}
+h1{
+font-size: 60px;
+font-family: MS Reference Sans Serif;
+color:black;
+text-decoration: none;
+
+}
+p{
+	font-size: 30px;
+	color: black;
+  text-decoration: none;
+}
+.logo{
+	border-radius:50%;
+}
+#fcolor{
+	color: white;
+}

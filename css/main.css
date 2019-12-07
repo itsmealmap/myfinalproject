@@ -1,0 +1,134 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background-color: black;
+  text-decoration: none;
+}
+/**********************************
+html style
+***********************************/
+.card h1{
+font-family: MS Reference Sans Serif;
+font-size: 1.5em;
+color: black;
+}
+/************CARD************/
+.card{
+font-family: MS Reference Sans Serif;
+
+}
+.card li{
+  font-size: 0.75em;
+}
+/**********************************
+Recipe.html style
+***********************************/
+.reci img{
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+  text-decoration: none;
+}
+.reci p{
+  text-align: center;
+  font-size: 2em;
+  color:black;
+  text-decoration: none;
+}
+.reci a{
+  color: black;
+  font-size: 2em;
+  text-decoration: none;
+}
+.reci{
+  font-family: MS Reference Sans Serif;
+  padding: 6px;
+  margin: auto;
+  text-decoration: none;
+   
+}
+.reci li{
+	text-decoration: none;
+}
+
+/**********************************
+Footer
+***********************************/
+
+footer {
+  font-size: 1em;
+  text-align: center;
+  clear: both;
+  
+  color: #ccc;
+  font-family:MS Reference Sans Serif
+}
+/**********************************
+contact style
+***********************************/
+.contact{
+  text-align: center;
+  font-size: 1.5em;
+  font-family: Georgia;
+}
+
+
+/**********************************
+galery
+***********************************/
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 1%;
+  background-color: #f5f5f5;
+  color: #bdc3c7;
+
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.75em;
+  color: #bdc3c7
+}
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+}
+#wrapper a{
+   text-decoration: none;
+   float: none;
+}
+img {
+  max-width: 50%;
+
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+@media screen and (max-width:600px){
+a img{
+  float: none;
+    display: block;
+    text-align: left;
+    width: 100px;
+    margin: 0;
+    padding: 5px;
+}
+
+}
+#fcolor{
+  color: white;
+
+}
